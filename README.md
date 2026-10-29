@@ -82,7 +82,7 @@ Version
 Copyright
 ---------
 
-- Exponential Site App is copyright 1998 - 2026 7x
+- Exponential Site App is Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.
 - See: [LICENSE.md](LICENSE.md) for more information on the terms of the copyright and license
 
 License
